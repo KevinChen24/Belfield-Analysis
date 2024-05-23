@@ -1,0 +1,1 @@
+This project report shows the market data analysis of Belfield (Surburb in Sydney, Australia). The aim of the report is to analyse the trend and key insights of different data to help potential buyers to make informed decision about purchasing property in Belfield.
